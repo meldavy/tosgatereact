@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "name": "/api",
+      "lambdaFunction": "tosgate",
+      "privacy": {
+        "open": true
+      },
+      "policyResourceName": "/api"
+    }
+  ],
+  "resourceName": "tosgate",
+  "apiName": "tosgate",
+  "functionArns": [
+    {
+      "lambdaFunction": "tosgate"
+    }
+  ],
+  "privacy": {
+    "auth": 0,
+    "unauth": 0,
+    "authRoleName": "amplify-amplify7bd6973fa0834-staging-32007-authRole",
+    "unAuthRoleName": "amplify-amplify7bd6973fa0834-staging-32007-unauthRole"
+  },
+  "dependsOn": [
+    {
+      "category": "function",
+      "resourceName": "tosgate",
+      "attributes": [
+        "Name",
+        "Arn"
+      ]
+    }
+  ]
+}

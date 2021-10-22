@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="774dca3d-6efe-4a1d-a618-8a3f37bba760" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/.config/project-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/tosgate/api-params.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/tosgate/parameters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/api/tosgate/tosgate-cloudformation-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/backend-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/amplify.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/custom-policies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/function-parameters.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/src/event.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/src/main/java/example/LambdaRequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/src/main/java/example/RequestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/src/main/java/example/ResponseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/function/tosgate/tosgate-cloudformation-template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/backend/tags.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amplify/team-provider-info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tosgate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1zqANGJ24xCLRr5BSzBHXJXCyVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="774dca3d-6efe-4a1d-a618-8a3f37bba760" name="Changes" comment="" />
+      <created>1634865202799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634865202799</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1634868256467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634868256467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
